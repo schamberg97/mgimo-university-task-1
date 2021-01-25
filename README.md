@@ -1,6 +1,10 @@
 # mgimo-university-task-1
 This is a repo dedicated to completing a university exam task dedicated to proving that I know how to use git.
 
+## Недочеты
+
+В коде почти нет никаких проверок и контроля ошибок.
+
 ## Как запустить
 
 В данной репозитории находятся исходник (`main.go`) и кросскомпилированные версии для Windows (`main_win64.exe`), macOS (`main_darwin_x86-64`) и Linux (`main_linux_x86-64`).
